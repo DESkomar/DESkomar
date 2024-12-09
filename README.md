@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DESkomar
-- 👀 I’m interested in industial automation, web app development
+- 👀 I’m interested in industrial automation, web app development
 - 🌱 I’m currently learning JS, AngularJS, Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
